@@ -12,6 +12,6 @@ import org.uv.dapp02practica01.ConexionDB;
 public class BDNCPractica01 {
 
     public static void main(String[] args) {
-        ConexionDB con = ConexionDB.getInstance();
+        //ConexionDB con = ConexionDB.getInstance();
     }
 }
